@@ -3,12 +3,18 @@ import styles from "./Player.module.css";
 import videos from "json/db.json";
 import Banner from "components/Banner";
 import Titulo from "components/Titulo";
+import NaoEncontrado from "pages/NaoEncontrado";
 
 function Player() {
   const parametros = useParams();
   const video = videos.find((video) => {
     return video.id === Number(parametros.id);
   });
+
+  if (!video) {
+    return <NaoEncontrado />;
+  }
+
   return (
     <>
       <Banner imagem="player" />
