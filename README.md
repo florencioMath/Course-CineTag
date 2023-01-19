@@ -41,35 +41,22 @@ This project was developed with the following technologies:
 <details>
 <summary>Take a look at how it turned out:</summary>
   <br>
-  Under construction
-  <!--
   <tr>
     <td align="center">
-        <p align="center">Dogs creating an account</p>
-      <img src="https://github.com/florencioMath/Course-ReactCompleto/blob/main/readmeFiles/dogCria%C3%A7%C3%A3oDeConta.gif?raw=true"  alt="Dogs creating an account"/>
+        <p align="center">Cinetag home</p>
+      <img src="https://github.com/florencioMath/Course-CineTag/blob/main/readmeFiles/cinetagHome.gif?raw=true"  alt="Cinetag home"/>
     </td>
     <br>
     <td align="center">
-        <p align="center">Dogs adding a photo</p>
-      <img src="https://github.com/florencioMath/Course-ReactCompleto/blob/main/readmeFiles/dogAdicionandoDog.gif?raw=true" alt="Dogs adding a photo" />
+        <p align="center">Cinetag favorite page</p>
+      <img src="https://github.com/florencioMath/Course-CineTag/blob/main/readmeFiles/cinetagFavorito.gif?raw=true" alt="Cinetag favorite page" />
     </td>
     <br>
     <td align="center">
-        <p align="center">Dogs adding a comentary</p>
-      <img src="https://github.com/florencioMath/Course-ReactCompleto/blob/main/readmeFiles/dogComentandoFotos.gif?raw=true" alt="Dogs adding a comentary" />
-    </td>
-    <br>
-    <td align="center">
-        <p align="center">Dogs statistics</p>
-      <img src="https://github.com/florencioMath/Course-ReactCompleto/blob/main/readmeFiles/dogEstatisticas.gif?raw=true" alt="Dogs statistics" />
-    </td>
-        <br>
-    <td align="center">
-        <p align="center">Dogs deleting a photo</p>
-      <img src="https://github.com/florencioMath/Course-ReactCompleto/blob/main/readmeFiles/dogDeletandoFoto.gif?raw=true" alt="Dogs deleting a photo" />
+        <p align="center">Cinetag video page</p>
+      <img src="https://github.com/florencioMath/Course-CineTag/blob/main/readmeFiles/cinetagPaginaVideo.gif?raw=true" alt="Cinetag video page" />
     </td>
   </tr>
-  -->
   </details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
