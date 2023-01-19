@@ -9,3 +9,7 @@
   font-size: 18px;
   color: var(--branco);
 }
+
+.rodape h2 a {
+  color: white;
+}
